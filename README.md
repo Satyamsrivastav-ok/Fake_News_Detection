@@ -1,0 +1,3 @@
+The GenAI Fake News Detector is a browser extension that helps users identify potentially misleading or low-credibility news articles in real time. Unlike traditional fact-checking tools that only flag known fake stories, this extension uses Generative AI to analyze any webpage instantly. It provides a credibility score along with a clear, easy-to-understand explanation of why the article may or may not be trustworthy.
+
+This project aims to empower readers to think critically about the information they consume by highlighting issues such as missing sources, sensationalist language, unreliable domains, or logical inconsistencies. It is designed as both a tool for everyday users and a learning aid for students who want to develop media literacy skills.
